@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import logo from '../../assets/logo.png'; // ajuste o caminho se necessário
 
-import INFO from "../../data/user";
 
 import "./styles/logo.css";
 
