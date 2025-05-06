@@ -7,7 +7,7 @@ import loading from "../assets/animation-loading-circle-icon-loading-gif-loading
 
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
+		title: "Portfolio Fatec - Gabriel Maia",
 		name: "Tharindu N.",
 		email: "gabrielmaiaa22@gmail.com",
 		logo: "../logo.png",
