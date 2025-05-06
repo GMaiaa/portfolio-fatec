@@ -21,7 +21,7 @@ const Projects = () => {
 	return (
 		<React.Fragment>
 			<Helmet>
-				<title>{`Projects | ${INFO.main.title}`}</title>
+				<title>{`Projetos | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
 					name="keywords"
@@ -39,21 +39,13 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							Things I’ve made trying to put my dent in the
-							universe.
+							Coisas que construí buscando causar impacto com código.
 						</div>
 
 						<div className="subtitle projects-subtitle">
-							I've worked on a variety of projects over the years
-							and I'm proud of the progress I've made. Many of
-							these projects are open-source and available for
-							others to explore and contribute to. If you're
-							interested in any of the projects I've worked on,
-							please feel free to check out the code and suggest
-							any improvements or enhancements you might have in
-							mind. Collaborating with others is a great way to
-							learn and grow, and I'm always open to new ideas and
-							feedback.
+							Ao longo dos seis semestres do curso de Desenvolvimento de Software Multiplataforma na FATEC Zona Leste, desenvolvi diversos projetos que refletem meu crescimento técnico e criativo.
+							Nesta seção, você encontrará um projeto representativo de cada semestre, abordando diferentes áreas como desenvolvimento web, mobile, banco de dados, integração de APIs, e muito mais. Cada um deles foi construído com base nos conhecimentos adquiridos em sala de aula e aprimorados com pesquisa e prática.
+							Sinta-se à vontade para explorar e conhecer um pouco mais da minha jornada como desenvolvedor!
 						</div>
 
 						<div className="projects-list">
